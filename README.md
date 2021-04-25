@@ -2,4 +2,4 @@
   
 ![](/instagram-clone.png)
 
-Instagram ana sayfasını HTML ve CSS ile responsive bir şekilde tasarladım. Bootstrap'in grid yapısı gibi nimetlerini kullandım. Projeye ilerleyen kendimi geliştirdikçe fonksiyonellik katmaya çalışacağım.
+Linkedin ana sayfasını HTML ve CSS ile responsive bir şekilde tasarladım. Geliştirme esnasında BEM metodolojisini uyguladım ve SASS'ı ilk kez deneyimledim. Önceki projeme kıyasla responsive konusunda deneyim edinmek için Bootstrap kullanmadım.
